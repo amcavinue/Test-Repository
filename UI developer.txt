@@ -1,4 +1,4 @@
-Experience at MRI (Reduce the wordiness here):
+Experience at MRI:
 Software engineering / UX Internship
 Product Development Internship
 Source control using Tortise SVN. SVC.
@@ -94,6 +94,7 @@ Decide on how much theory & learning I'll have to do. Figure out how much non-pr
       Rapid prototyping skills - Axure, Visio
    HTML5 & CSS3, Front-end coding standards/conventions
       CSS media queries
+      Remember me on this device
    SEO design & standards
    JavaScript, Jquery, Jquery mobile, Firebug - Object oriented stuff here.
    Content Management Systems, Relational Databases, SQL & MySQL practice
@@ -110,6 +111,7 @@ Decide on how much theory & learning I'll have to do. Figure out how much non-pr
       Coffeescript, Clojurescript
       Drupal
       Google Web Toolkit
+      Angular.js, backbone.js
    Learn basic backend concepts - learn C# in-depth more, 
       MVC architecture
       Database abstraction layers
@@ -252,6 +254,7 @@ Some kind of framework - and how and when to use it.
 Underscore
 NodeJS
 SQL - Said to increase pay.
+Database theory - should e pay.
 Database theory - should probably do this.
 Programming theory
 Framework theory
@@ -316,7 +319,7 @@ Prior experience in User Interface Design, Web Design, Mobile Development a big 
 ****************************************************
 Notes:
 
-Will have to create a *number* of projects in order to practice all the skills necessary.
+Will have to create a *number* of projects in order to practice all the skills neceo practice all the skills necessary.
 Buy hosting - this will help incredibly with the development process.
 
 Create a few different websites:
@@ -387,7 +390,7 @@ Visual Studio, Adobe Creative Suite, Microsoft Office,
 
 
 ****************************************************
-Other job titles (in a roughly desirable order) - UX designer, Interaction designer, Interactive designer, Product designer, UI designer, UI artist (videogame industry), UI developer, Web designer, digital designer, Enterprise graphic design, mobile graphic design, graphic design, Web developer, front-end developer, user experience professional, Web producer, Multimedia designer (keyword "multimedia" not the most important; also not that many jobs anyways...)
+Other job titles (in a roughly desirable order) - UX designer, Interaction designer, Interactive designer, Product designer, UI designer, UI artist (videogame industry), UI developer, Web designer, digital designer, webmaster, Enterprise graphic design, mobile graphic design, graphic design, Web developer, front-end developer, user experience professional, Web producer, Multimedia designer (keyword "multimedia" not the most important; also not that many jobs anyways...)
 
 ***Apply to front-end web dev jobs just to see if they are a fit - if on-site, I find that the people suck, I can always leave later...
 
@@ -467,12 +470,17 @@ http://mashable.com/2010/07/22/web-design-feedback-tools/ - Best resource.
 Job Search:
 Start off with companies around here - COMPLETELY WING IT! - This way, I can build confidence, and learn what to say/what not to say.
 
+http://www.reddit.com/r/Frontend/comments/1xag18/best_places_to_find_frontend_jobs_and_be_found/
 http://www.authenticjobs.com/ - Has a lot of good freelance/work from home stuff! (Very cool!)
 http://frontenddeveloperjob.com/ - Also has remote work.
+https://weworkremotely.com
+http://careers.stackoverflow.com/jobs
+http://www.krop.com
+http://www.flexjobs.com/jobs/web-design
 
-***Remote work does indeed sound like a possibility!
+***Remote work does indeed sound like a possibility! 
 
-I have also seen "part-time" positions (~30 hours a week)!
+I have also seen "part-time" positions (~30 hours a week)! - Are these freelance only? And how hard to find? After informal research, it seems like its reasonable.
 
 OR can also do freelance - This is very very good for me. Presents to potential to ease into an art/painting career if possible.
 
